@@ -9,12 +9,19 @@
 				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/_RicardoMonrreal/Test.uasset",
 				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/_RicardoMonrreal/Player/IMC_Player.uasset",
-				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/_RicardoMonrreal/Player/IA_Move.uasset",
 				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/_RicardoMonrreal/Player/IA_Movement.uasset",
 				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/_RicardoMonrreal/Player/IA_Jump.uasset",
 				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/_RicardoMonrreal/Player/IA_Sleep.uasset",
 				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/Characters/Mannequins/Meshes/SKM_Quinn_Physics.uasset",
-				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/Characters/Mannequins/Meshes/SKM_Quinn.uasset"
+				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/Characters/Mannequins/Meshes/SKM_Quinn.uasset",
+				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/_RicardoMonrreal/Player/IMC_Sleep.uasset",
+				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/_RicardoMonrreal/Player/IA_ActiveSleep.uasset",
+				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset",
+				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/_RicardoMonrreal/Player/IA_Wake.uasset",
+				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/_RicardoMonrreal/Player/IA_Ragdoll.uasset",
+				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/_RicardoMonrreal/Player/BPI_Ragdoll.uasset",
+				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/_RicardoMonrreal/Player/IA_Move.uasset"
 			]
 		}
 	]
