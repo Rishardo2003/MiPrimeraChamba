@@ -5,9 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Jocy/Desktop/MiPrimeraChamba/Content/_BryanCruz/MainMenu.umap",
 				"C:/Users/Jocy/Desktop/MiPrimeraChamba/Content/_BryanCruz/Levels/MainMenu.umap",
 				"C:/Users/Jocy/Desktop/MiPrimeraChamba/Content/_BryanCruz/W_MainMenu.uasset",
+				"C:/Users/Jocy/Desktop/MiPrimeraChamba/Content/_BryanCruz/Widgets/W_MainMenu.uasset",
+				"C:/Users/Jocy/Desktop/MiPrimeraChamba/Content/_BryanCruz/Widgets/W_HUD.uasset",
+				"C:/Users/Jocy/Desktop/MiPrimeraChamba/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Jocy/Desktop/MiPrimeraChamba/Content/_BryanCruz/MainMenu.umap",
 				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/StarterContent/Props/MaterialSphere.uasset",
 				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/_RicardoMonrreal/Test.uasset",
 				"C:/Users/ric13/Documents/MiPrimeraChamba/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
